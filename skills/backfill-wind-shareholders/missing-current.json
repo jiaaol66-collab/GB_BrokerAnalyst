@@ -1,0 +1,1351 @@
+{
+  "workbook": "E:\\work\\SIDE\\Golden_Bull_Projects\\GB_BrokerAnalyst\\2026分析师_260730_0\\重要文件\\分析师清洗版\\买方反应_缺失信息股票.xlsx",
+  "sheet": "导出计数_标识",
+  "market_suffix": ".HK",
+  "missing_row_count": 57,
+  "groups": [
+    {
+      "code": "3877.HK",
+      "name": "中国船舶租赁",
+      "rows": [
+        {
+          "row": 185,
+          "code": "3877.HK",
+          "name": "中国船舶租赁",
+          "previous_period": "2025-12-31",
+          "later_period": "2026-06-30",
+          "missing": [
+            "F",
+            "G",
+            "I",
+            "J"
+          ],
+          "existing": {
+            "F": null,
+            "G": null,
+            "I": null,
+            "J": null
+          }
+        }
+      ]
+    },
+    {
+      "code": "3899.HK",
+      "name": "中集安瑞科",
+      "rows": [
+        {
+          "row": 186,
+          "code": "3899.HK",
+          "name": "中集安瑞科",
+          "previous_period": "2025-06-30",
+          "later_period": "2025-12-31",
+          "missing": [
+            "F",
+            "G",
+            "I",
+            "J"
+          ],
+          "existing": {
+            "F": null,
+            "G": null,
+            "I": null,
+            "J": null
+          }
+        }
+      ]
+    },
+    {
+      "code": "3900.HK",
+      "name": "绿城中国",
+      "rows": [
+        {
+          "row": 187,
+          "code": "3900.HK",
+          "name": "绿城中国",
+          "previous_period": "2025-12-31",
+          "later_period": "2026-06-30",
+          "missing": [
+            "F",
+            "G",
+            "I",
+            "J"
+          ],
+          "existing": {
+            "F": null,
+            "G": null,
+            "I": null,
+            "J": null
+          }
+        },
+        {
+          "row": 188,
+          "code": "3900.HK",
+          "name": "绿城中国",
+          "previous_period": "2025-06-30",
+          "later_period": "2025-12-31",
+          "missing": [
+            "F",
+            "G",
+            "I",
+            "J"
+          ],
+          "existing": {
+            "F": null,
+            "G": null,
+            "I": null,
+            "J": null
+          }
+        }
+      ]
+    },
+    {
+      "code": "3908.HK",
+      "name": "中金公司",
+      "rows": [
+        {
+          "row": 189,
+          "code": "3908.HK",
+          "name": "中金公司",
+          "previous_period": "2025-12-31",
+          "later_period": "2026-06-30",
+          "missing": [
+            "F",
+            "G"
+          ],
+          "existing": {
+            "F": null,
+            "G": null,
+            "I": "350",
+            "J": "343"
+          }
+        },
+        {
+          "row": 190,
+          "code": "3908.HK",
+          "name": "中金公司",
+          "previous_period": "2025-06-30",
+          "later_period": "2025-12-31",
+          "missing": [
+            "F",
+            "G"
+          ],
+          "existing": {
+            "F": null,
+            "G": null,
+            "I": "356",
+            "J": "350"
+          }
+        }
+      ]
+    },
+    {
+      "code": "3933.HK",
+      "name": "联邦制药",
+      "rows": [
+        {
+          "row": 191,
+          "code": "3933.HK",
+          "name": "联邦制药",
+          "previous_period": "2025-06-30",
+          "later_period": "2025-12-31",
+          "missing": [
+            "F",
+            "G",
+            "I",
+            "J"
+          ],
+          "existing": {
+            "F": null,
+            "G": null,
+            "I": null,
+            "J": null
+          }
+        }
+      ]
+    },
+    {
+      "code": "3993.HK",
+      "name": "洛阳钼业",
+      "rows": [
+        {
+          "row": 192,
+          "code": "3993.HK",
+          "name": "洛阳钼业",
+          "previous_period": "2025-06-30",
+          "later_period": "2025-12-31",
+          "missing": [
+            "F",
+            "G"
+          ],
+          "existing": {
+            "F": null,
+            "G": null,
+            "I": "237523",
+            "J": "352617"
+          }
+        }
+      ]
+    },
+    {
+      "code": "3998.HK",
+      "name": "波司登",
+      "rows": [
+        {
+          "row": 193,
+          "code": "3998.HK",
+          "name": "波司登",
+          "previous_period": "2025-12-31",
+          "later_period": "2026-06-30",
+          "missing": [
+            "F",
+            "G",
+            "I",
+            "J"
+          ],
+          "existing": {
+            "F": null,
+            "G": null,
+            "I": null,
+            "J": null
+          }
+        },
+        {
+          "row": 194,
+          "code": "3998.HK",
+          "name": "波司登",
+          "previous_period": "2025-06-30",
+          "later_period": "2025-12-31",
+          "missing": [
+            "F",
+            "G",
+            "I",
+            "J"
+          ],
+          "existing": {
+            "F": null,
+            "G": null,
+            "I": null,
+            "J": null
+          }
+        }
+      ]
+    },
+    {
+      "code": "6060.HK",
+      "name": "众安在线",
+      "rows": [
+        {
+          "row": 196,
+          "code": "6060.HK",
+          "name": "众安在线",
+          "previous_period": "2025-06-30",
+          "later_period": "2025-12-31",
+          "missing": [
+            "F",
+            "G",
+            "I",
+            "J"
+          ],
+          "existing": {
+            "F": null,
+            "G": null,
+            "I": null,
+            "J": null
+          }
+        }
+      ]
+    },
+    {
+      "code": "6082.HK",
+      "name": "壁仞科技",
+      "rows": [
+        {
+          "row": 197,
+          "code": "6082.HK",
+          "name": "壁仞科技",
+          "previous_period": "2025-12-31",
+          "later_period": "2026-06-30",
+          "missing": [
+            "F",
+            "G",
+            "I",
+            "J"
+          ],
+          "existing": {
+            "F": null,
+            "G": null,
+            "I": null,
+            "J": null
+          }
+        }
+      ]
+    },
+    {
+      "code": "6088.HK",
+      "name": "鸿腾精密",
+      "rows": [
+        {
+          "row": 198,
+          "code": "6088.HK",
+          "name": "鸿腾精密",
+          "previous_period": "2025-12-31",
+          "later_period": "2026-06-30",
+          "missing": [
+            "F",
+            "G",
+            "I",
+            "J"
+          ],
+          "existing": {
+            "F": null,
+            "G": null,
+            "I": null,
+            "J": null
+          }
+        }
+      ]
+    },
+    {
+      "code": "6090.HK",
+      "name": "不同集团",
+      "rows": [
+        {
+          "row": 199,
+          "code": "6090.HK",
+          "name": "不同集团",
+          "previous_period": "2025-06-30",
+          "later_period": "2025-12-31",
+          "missing": [
+            "F",
+            "G",
+            "I",
+            "J"
+          ],
+          "existing": {
+            "F": null,
+            "G": null,
+            "I": null,
+            "J": null
+          }
+        }
+      ]
+    },
+    {
+      "code": "6127.HK",
+      "name": "昭衍新药",
+      "rows": [
+        {
+          "row": 200,
+          "code": "6127.HK",
+          "name": "昭衍新药",
+          "previous_period": "2025-06-30",
+          "later_period": "2025-12-31",
+          "missing": [
+            "F",
+            "G"
+          ],
+          "existing": {
+            "F": null,
+            "G": null,
+            "I": "61199",
+            "J": "66364"
+          }
+        }
+      ]
+    },
+    {
+      "code": "6160.HK",
+      "name": "百济神州",
+      "rows": [
+        {
+          "row": 201,
+          "code": "6160.HK",
+          "name": "百济神州",
+          "previous_period": "2025-06-30",
+          "later_period": "2025-12-31",
+          "missing": [
+            "F",
+            "G"
+          ],
+          "existing": {
+            "F": null,
+            "G": null,
+            "I": "45",
+            "J": "38"
+          }
+        }
+      ]
+    },
+    {
+      "code": "6181.HK",
+      "name": "老铺黄金",
+      "rows": [
+        {
+          "row": 202,
+          "code": "6181.HK",
+          "name": "老铺黄金",
+          "previous_period": "2025-12-31",
+          "later_period": "2026-06-30",
+          "missing": [
+            "F",
+            "G",
+            "I",
+            "J"
+          ],
+          "existing": {
+            "F": null,
+            "G": null,
+            "I": null,
+            "J": null
+          }
+        },
+        {
+          "row": 203,
+          "code": "6181.HK",
+          "name": "老铺黄金",
+          "previous_period": "2025-06-30",
+          "later_period": "2025-12-31",
+          "missing": [
+            "F",
+            "G",
+            "I",
+            "J"
+          ],
+          "existing": {
+            "F": null,
+            "G": null,
+            "I": null,
+            "J": null
+          }
+        }
+      ]
+    },
+    {
+      "code": "6600.HK",
+      "name": "卧安机器人",
+      "rows": [
+        {
+          "row": 204,
+          "code": "6600.HK",
+          "name": "卧安机器人",
+          "previous_period": "2025-12-31",
+          "later_period": "2026-06-30",
+          "missing": [
+            "F",
+            "G",
+            "I",
+            "J"
+          ],
+          "existing": {
+            "F": null,
+            "G": null,
+            "I": null,
+            "J": null
+          }
+        }
+      ]
+    },
+    {
+      "code": "6616.HK",
+      "name": "环球新材国际",
+      "rows": [
+        {
+          "row": 205,
+          "code": "6616.HK",
+          "name": "环球新材国际",
+          "previous_period": "2025-12-31",
+          "later_period": "2026-06-30",
+          "missing": [
+            "F",
+            "G",
+            "I",
+            "J"
+          ],
+          "existing": {
+            "F": null,
+            "G": null,
+            "I": null,
+            "J": null
+          }
+        }
+      ]
+    },
+    {
+      "code": "6683.HK",
+      "name": "巨星传奇",
+      "rows": [
+        {
+          "row": 206,
+          "code": "6683.HK",
+          "name": "巨星传奇",
+          "previous_period": "2025-06-30",
+          "later_period": "2025-12-31",
+          "missing": [
+            "F",
+            "G",
+            "I",
+            "J"
+          ],
+          "existing": {
+            "F": null,
+            "G": null,
+            "I": null,
+            "J": null
+          }
+        }
+      ]
+    },
+    {
+      "code": "6862.HK",
+      "name": "海底捞",
+      "rows": [
+        {
+          "row": 207,
+          "code": "6862.HK",
+          "name": "海底捞",
+          "previous_period": "2025-12-31",
+          "later_period": "2026-06-30",
+          "missing": [
+            "F",
+            "G",
+            "I",
+            "J"
+          ],
+          "existing": {
+            "F": null,
+            "G": null,
+            "I": null,
+            "J": null
+          }
+        }
+      ]
+    },
+    {
+      "code": "6979.HK",
+      "name": "珍酒李渡",
+      "rows": [
+        {
+          "row": 208,
+          "code": "6979.HK",
+          "name": "珍酒李渡",
+          "previous_period": "2025-06-30",
+          "later_period": "2025-12-31",
+          "missing": [
+            "F",
+            "G",
+            "I",
+            "J"
+          ],
+          "existing": {
+            "F": null,
+            "G": null,
+            "I": null,
+            "J": null
+          }
+        }
+      ]
+    },
+    {
+      "code": "6980.HK",
+      "name": "八马茶业",
+      "rows": [
+        {
+          "row": 209,
+          "code": "6980.HK",
+          "name": "八马茶业",
+          "previous_period": "2025-12-31",
+          "later_period": "2026-06-30",
+          "missing": [
+            "F",
+            "G",
+            "I",
+            "J"
+          ],
+          "existing": {
+            "F": null,
+            "G": null,
+            "I": null,
+            "J": null
+          }
+        }
+      ]
+    },
+    {
+      "code": "6990.HK",
+      "name": "科伦博泰生物",
+      "rows": [
+        {
+          "row": 210,
+          "code": "6990.HK",
+          "name": "科伦博泰生物",
+          "previous_period": "2025-12-31",
+          "later_period": "2026-06-30",
+          "missing": [
+            "F",
+            "G",
+            "I",
+            "J"
+          ],
+          "existing": {
+            "F": null,
+            "G": null,
+            "I": null,
+            "J": null
+          }
+        },
+        {
+          "row": 211,
+          "code": "6990.HK",
+          "name": "科伦博泰生物",
+          "previous_period": "2025-06-30",
+          "later_period": "2025-12-31",
+          "missing": [
+            "F",
+            "G",
+            "I",
+            "J"
+          ],
+          "existing": {
+            "F": null,
+            "G": null,
+            "I": null,
+            "J": null
+          }
+        }
+      ]
+    },
+    {
+      "code": "9606.HK",
+      "name": "映恩生物",
+      "rows": [
+        {
+          "row": 212,
+          "code": "9606.HK",
+          "name": "映恩生物",
+          "previous_period": "2025-06-30",
+          "later_period": "2025-12-31",
+          "missing": [
+            "F",
+            "G",
+            "I",
+            "J"
+          ],
+          "existing": {
+            "F": null,
+            "G": null,
+            "I": null,
+            "J": null
+          }
+        }
+      ]
+    },
+    {
+      "code": "9618.HK",
+      "name": "京东",
+      "rows": [
+        {
+          "row": 213,
+          "code": "9618.HK",
+          "name": "京东",
+          "previous_period": "2025-12-31",
+          "later_period": "2026-06-30",
+          "missing": [
+            "F",
+            "G",
+            "I",
+            "J"
+          ],
+          "existing": {
+            "F": null,
+            "G": null,
+            "I": null,
+            "J": null
+          }
+        }
+      ]
+    },
+    {
+      "code": "9626.HK",
+      "name": "哔哩哔哩-W",
+      "rows": [
+        {
+          "row": 214,
+          "code": "9626.HK",
+          "name": "哔哩哔哩-W",
+          "previous_period": "2025-12-31",
+          "later_period": "2026-06-30",
+          "missing": [
+            "F",
+            "G",
+            "I",
+            "J"
+          ],
+          "existing": {
+            "F": null,
+            "G": null,
+            "I": null,
+            "J": null
+          }
+        },
+        {
+          "row": 215,
+          "code": "9626.HK",
+          "name": "哔哩哔哩-W",
+          "previous_period": "2025-06-30",
+          "later_period": "2025-12-31",
+          "missing": [
+            "F",
+            "G",
+            "I",
+            "J"
+          ],
+          "existing": {
+            "F": null,
+            "G": null,
+            "I": null,
+            "J": null
+          }
+        }
+      ]
+    },
+    {
+      "code": "9633.HK",
+      "name": "农夫山泉",
+      "rows": [
+        {
+          "row": 216,
+          "code": "9633.HK",
+          "name": "农夫山泉",
+          "previous_period": "2025-12-31",
+          "later_period": "2026-06-30",
+          "missing": [
+            "F",
+            "G",
+            "I",
+            "J"
+          ],
+          "existing": {
+            "F": null,
+            "G": null,
+            "I": null,
+            "J": null
+          }
+        },
+        {
+          "row": 217,
+          "code": "9633.HK",
+          "name": "农夫山泉",
+          "previous_period": "2025-06-30",
+          "later_period": "2025-12-31",
+          "missing": [
+            "F",
+            "G",
+            "I",
+            "J"
+          ],
+          "existing": {
+            "F": null,
+            "G": null,
+            "I": null,
+            "J": null
+          }
+        }
+      ]
+    },
+    {
+      "code": "9658.HK",
+      "name": "特海国际",
+      "rows": [
+        {
+          "row": 218,
+          "code": "9658.HK",
+          "name": "特海国际",
+          "previous_period": "2025-06-30",
+          "later_period": "2025-12-31",
+          "missing": [
+            "F",
+            "G",
+            "I",
+            "J"
+          ],
+          "existing": {
+            "F": null,
+            "G": null,
+            "I": null,
+            "J": null
+          }
+        }
+      ]
+    },
+    {
+      "code": "9660.HK",
+      "name": "地平线",
+      "rows": [
+        {
+          "row": 219,
+          "code": "9660.HK",
+          "name": "地平线",
+          "previous_period": "2025-12-31",
+          "later_period": "2026-06-30",
+          "missing": [
+            "F",
+            "G",
+            "I",
+            "J"
+          ],
+          "existing": {
+            "F": null,
+            "G": null,
+            "I": null,
+            "J": null
+          }
+        }
+      ]
+    },
+    {
+      "code": "9699.HK",
+      "name": "顺丰同城",
+      "rows": [
+        {
+          "row": 220,
+          "code": "9699.HK",
+          "name": "顺丰同城",
+          "previous_period": "2025-06-30",
+          "later_period": "2025-12-31",
+          "missing": [
+            "F",
+            "G",
+            "I",
+            "J"
+          ],
+          "existing": {
+            "F": null,
+            "G": null,
+            "I": null,
+            "J": null
+          }
+        }
+      ]
+    },
+    {
+      "code": "9858.HK",
+      "name": "优然牧业",
+      "rows": [
+        {
+          "row": 221,
+          "code": "9858.HK",
+          "name": "优然牧业",
+          "previous_period": "2025-12-31",
+          "later_period": "2026-06-30",
+          "missing": [
+            "F",
+            "G",
+            "I",
+            "J"
+          ],
+          "existing": {
+            "F": null,
+            "G": null,
+            "I": null,
+            "J": null
+          }
+        },
+        {
+          "row": 222,
+          "code": "9858.HK",
+          "name": "优然牧业",
+          "previous_period": "2025-06-30",
+          "later_period": "2025-12-31",
+          "missing": [
+            "F",
+            "G",
+            "I",
+            "J"
+          ],
+          "existing": {
+            "F": null,
+            "G": null,
+            "I": null,
+            "J": null
+          }
+        }
+      ]
+    },
+    {
+      "code": "9863.HK",
+      "name": "零跑汽车",
+      "rows": [
+        {
+          "row": 223,
+          "code": "9863.HK",
+          "name": "零跑汽车",
+          "previous_period": "2025-12-31",
+          "later_period": "2026-06-30",
+          "missing": [
+            "F",
+            "G",
+            "I",
+            "J"
+          ],
+          "existing": {
+            "F": null,
+            "G": null,
+            "I": null,
+            "J": null
+          }
+        }
+      ]
+    },
+    {
+      "code": "9866.HK",
+      "name": "蔚来-SW",
+      "rows": [
+        {
+          "row": 224,
+          "code": "9866.HK",
+          "name": "蔚来-SW",
+          "previous_period": "2025-12-31",
+          "later_period": "2026-06-30",
+          "missing": [
+            "F",
+            "G",
+            "I",
+            "J"
+          ],
+          "existing": {
+            "F": null,
+            "G": null,
+            "I": null,
+            "J": null
+          }
+        },
+        {
+          "row": 225,
+          "code": "9866.HK",
+          "name": "蔚来-SW",
+          "previous_period": "2025-06-30",
+          "later_period": "2025-12-31",
+          "missing": [
+            "F",
+            "G",
+            "I",
+            "J"
+          ],
+          "existing": {
+            "F": null,
+            "G": null,
+            "I": null,
+            "J": null
+          }
+        }
+      ]
+    },
+    {
+      "code": "9868.HK",
+      "name": "小鹏汽车",
+      "rows": [
+        {
+          "row": 226,
+          "code": "9868.HK",
+          "name": "小鹏汽车",
+          "previous_period": "2025-12-31",
+          "later_period": "2026-06-30",
+          "missing": [
+            "F",
+            "G",
+            "I",
+            "J"
+          ],
+          "existing": {
+            "F": null,
+            "G": null,
+            "I": null,
+            "J": null
+          }
+        }
+      ]
+    },
+    {
+      "code": "9887.HK",
+      "name": "维立志博",
+      "rows": [
+        {
+          "row": 227,
+          "code": "9887.HK",
+          "name": "维立志博",
+          "previous_period": "2025-12-31",
+          "later_period": "2026-06-30",
+          "missing": [
+            "F",
+            "G",
+            "I",
+            "J"
+          ],
+          "existing": {
+            "F": null,
+            "G": null,
+            "I": null,
+            "J": null
+          }
+        }
+      ]
+    },
+    {
+      "code": "9888.HK",
+      "name": "百度集团-SW",
+      "rows": [
+        {
+          "row": 228,
+          "code": "9888.HK",
+          "name": "百度集团-SW",
+          "previous_period": "2025-12-31",
+          "later_period": "2026-06-30",
+          "missing": [
+            "F",
+            "G",
+            "I",
+            "J"
+          ],
+          "existing": {
+            "F": null,
+            "G": null,
+            "I": null,
+            "J": null
+          }
+        }
+      ]
+    },
+    {
+      "code": "9896.HK",
+      "name": "名创优品",
+      "rows": [
+        {
+          "row": 229,
+          "code": "9896.HK",
+          "name": "名创优品",
+          "previous_period": "2025-12-31",
+          "later_period": "2026-06-30",
+          "missing": [
+            "F",
+            "G",
+            "I",
+            "J"
+          ],
+          "existing": {
+            "F": null,
+            "G": null,
+            "I": null,
+            "J": null
+          }
+        }
+      ]
+    },
+    {
+      "code": "9903.HK",
+      "name": "天数智芯",
+      "rows": [
+        {
+          "row": 230,
+          "code": "9903.HK",
+          "name": "天数智芯",
+          "previous_period": "2025-12-31",
+          "later_period": "2026-06-30",
+          "missing": [
+            "F",
+            "G",
+            "I",
+            "J"
+          ],
+          "existing": {
+            "F": null,
+            "G": null,
+            "I": null,
+            "J": null
+          }
+        }
+      ]
+    },
+    {
+      "code": "9911.HK",
+      "name": "赤子城科技",
+      "rows": [
+        {
+          "row": 231,
+          "code": "9911.HK",
+          "name": "赤子城科技",
+          "previous_period": "2025-12-31",
+          "later_period": "2026-06-30",
+          "missing": [
+            "F",
+            "G",
+            "I",
+            "J"
+          ],
+          "existing": {
+            "F": null,
+            "G": null,
+            "I": null,
+            "J": null
+          }
+        }
+      ]
+    },
+    {
+      "code": "9926.HK",
+      "name": "康方生物",
+      "rows": [
+        {
+          "row": 232,
+          "code": "9926.HK",
+          "name": "康方生物",
+          "previous_period": "2025-12-31",
+          "later_period": "2026-06-30",
+          "missing": [
+            "F",
+            "G",
+            "I",
+            "J"
+          ],
+          "existing": {
+            "F": null,
+            "G": null,
+            "I": null,
+            "J": null
+          }
+        },
+        {
+          "row": 233,
+          "code": "9926.HK",
+          "name": "康方生物",
+          "previous_period": "2025-06-30",
+          "later_period": "2025-12-31",
+          "missing": [
+            "F",
+            "G",
+            "I",
+            "J"
+          ],
+          "existing": {
+            "F": null,
+            "G": null,
+            "I": null,
+            "J": null
+          }
+        }
+      ]
+    },
+    {
+      "code": "9961.HK",
+      "name": "携程集团-S",
+      "rows": [
+        {
+          "row": 234,
+          "code": "9961.HK",
+          "name": "携程集团-S",
+          "previous_period": "2025-12-31",
+          "later_period": "2026-06-30",
+          "missing": [
+            "F",
+            "G",
+            "I",
+            "J"
+          ],
+          "existing": {
+            "F": null,
+            "G": null,
+            "I": null,
+            "J": null
+          }
+        }
+      ]
+    },
+    {
+      "code": "9966.HK",
+      "name": "康宁杰瑞",
+      "rows": [
+        {
+          "row": 235,
+          "code": "9966.HK",
+          "name": "康宁杰瑞",
+          "previous_period": "2025-06-30",
+          "later_period": "2025-12-31",
+          "missing": [
+            "F",
+            "G",
+            "I",
+            "J"
+          ],
+          "existing": {
+            "F": null,
+            "G": null,
+            "I": null,
+            "J": null
+          }
+        }
+      ]
+    },
+    {
+      "code": "9985.HK",
+      "name": "卫龙美味",
+      "rows": [
+        {
+          "row": 236,
+          "code": "9985.HK",
+          "name": "卫龙美味",
+          "previous_period": "2025-06-30",
+          "later_period": "2025-12-31",
+          "missing": [
+            "F",
+            "G",
+            "I",
+            "J"
+          ],
+          "existing": {
+            "F": null,
+            "G": null,
+            "I": null,
+            "J": null
+          }
+        }
+      ]
+    },
+    {
+      "code": "9987.HK",
+      "name": "百胜中国",
+      "rows": [
+        {
+          "row": 237,
+          "code": "9987.HK",
+          "name": "百胜中国",
+          "previous_period": "2025-12-31",
+          "later_period": "2026-06-30",
+          "missing": [
+            "F",
+            "G",
+            "I",
+            "J"
+          ],
+          "existing": {
+            "F": null,
+            "G": null,
+            "I": null,
+            "J": null
+          }
+        }
+      ]
+    },
+    {
+      "code": "9988.HK",
+      "name": "阿里巴巴",
+      "rows": [
+        {
+          "row": 238,
+          "code": "9988.HK",
+          "name": "阿里巴巴",
+          "previous_period": "2025-12-31",
+          "later_period": "2026-06-30",
+          "missing": [
+            "F",
+            "G",
+            "I",
+            "J"
+          ],
+          "existing": {
+            "F": null,
+            "G": null,
+            "I": null,
+            "J": null
+          }
+        },
+        {
+          "row": 239,
+          "code": "9988.HK",
+          "name": "阿里巴巴",
+          "previous_period": "2025-06-30",
+          "later_period": "2025-12-31",
+          "missing": [
+            "F",
+            "G",
+            "I",
+            "J"
+          ],
+          "existing": {
+            "F": null,
+            "G": null,
+            "I": null,
+            "J": null
+          }
+        }
+      ]
+    },
+    {
+      "code": "9992.HK",
+      "name": "泡泡玛特",
+      "rows": [
+        {
+          "row": 240,
+          "code": "9992.HK",
+          "name": "泡泡玛特",
+          "previous_period": "2025-12-31",
+          "later_period": "2026-06-30",
+          "missing": [
+            "F",
+            "G",
+            "I",
+            "J"
+          ],
+          "existing": {
+            "F": null,
+            "G": null,
+            "I": null,
+            "J": null
+          }
+        },
+        {
+          "row": 241,
+          "code": "9992.HK",
+          "name": "泡泡玛特",
+          "previous_period": "2025-06-30",
+          "later_period": "2025-12-31",
+          "missing": [
+            "F",
+            "G",
+            "I",
+            "J"
+          ],
+          "existing": {
+            "F": null,
+            "G": null,
+            "I": null,
+            "J": null
+          }
+        }
+      ]
+    },
+    {
+      "code": "9999.HK",
+      "name": "网易",
+      "rows": [
+        {
+          "row": 242,
+          "code": "9999.HK",
+          "name": "网易",
+          "previous_period": "2025-12-31",
+          "later_period": "2026-06-30",
+          "missing": [
+            "F",
+            "G",
+            "I",
+            "J"
+          ],
+          "existing": {
+            "F": null,
+            "G": null,
+            "I": null,
+            "J": null
+          }
+        }
+      ]
+    }
+  ]
+}

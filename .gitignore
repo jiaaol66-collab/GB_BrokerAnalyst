@@ -1,0 +1,52 @@
+# Default: ignore everything in this child repo.
+*
+# Keep this file itself.
+!.gitignore
+
+# Allow directory traversal so re-include rules below can take effect.
+!*/
+
+# Keep project documentation entrypoints.
+!README.md
+!原始数据集/通用/*
+
+# Keep root-level entry scripts / shortcuts.
+!data_ingestion.py
+!initialize.py
+!run.bat
+!start_notebook.exe.lnk
+
+# Keep the full historical code backup folder.
+!代码备份/
+!代码备份/**
+
+# Keep only the empty shell of raw datasets.
+!原始数据集/
+原始数据集/*
+!原始数据集/.gitkeep
+!原始数据集/**/
+!原始数据集/**/.gitkeep
+
+# Ignore local cache / editor / log directories anywhere in the repo.
+.idea/
+.vscode/
+**/.idea/
+**/.vscode/
+**/__pycache__/
+**/_log/
+**/logs/
+**/.ipynb_checkpoints/
+**/.dbg/
+
+# Explicitly keep any workspace path containing "分析师" ignored.
+*分析师*/
+**/*分析师*/
+*分析师*/**
+**/*分析师*/**
+
+# keep skills
+!skills/
+!skills/**
+
+# remove Performance
+Performance/

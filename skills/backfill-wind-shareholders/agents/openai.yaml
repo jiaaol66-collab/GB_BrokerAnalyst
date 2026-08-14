@@ -1,0 +1,4 @@
+interface:
+  display_name: "Wind股东数据回填"
+  short_description: "批量读取Wind股东数据，仅回填Excel空白项并保留原格式"
+  default_prompt: "Use $backfill-wind-shareholders to backfill missing Wind shareholder totals and institutional ownership into the specified Excel workbook."
