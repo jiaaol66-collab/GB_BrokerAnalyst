@@ -2,6 +2,7 @@
 *
 # Keep this file itself.
 !.gitignore
+!/.gitkeep
 
 # Allow directory traversal so re-include rules below can take effect.
 !*/

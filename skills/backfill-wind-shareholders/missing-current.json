@@ -1,5 +1,5 @@
 {
-  "workbook": "E:\\work\\SIDE\\Golden_Bull_Projects\\GB_BrokerAnalyst\\2026分析师_260730_0\\重要文件\\分析师清洗版\\买方反应_缺失信息股票.xlsx",
+  "workbook": "../../2026分析师_260730_0/重要文件/分析师清洗版/买方反应_缺失信息股票.xlsx",
   "sheet": "导出计数_标识",
   "market_suffix": ".HK",
   "missing_row_count": 57,
